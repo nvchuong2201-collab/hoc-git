@@ -1,1 +1,2 @@
 Toi la Nguyen Van Chuong. Toi dang hoc Git.
+Muc tieu: su dung Git de quan ly du an C#.
