@@ -1,3 +1,4 @@
 Toi la Nguyen Van Chuong. Toi dang hoc Git.
 Muc tieu: su dung Git de quan ly du an C#.
 Ky nang: C#, SQL Server, Git co ban.
+Toi da biet dong bo du lieu qua GitHub.
